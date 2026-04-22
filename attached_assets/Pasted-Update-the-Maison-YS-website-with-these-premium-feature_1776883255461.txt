@@ -1,0 +1,87 @@
+Update the Maison YS website with these premium features:
+
+1. WHATSAPP BUTTON IN CONTACT SECTION
+Add a WhatsApp button below the “Nous contacter” section.
+
+REQUIREMENTS:
+- Match the Maison YS luxury aesthetic
+- Use a premium black and gold design
+- Elegant typography
+- Refined hover effect
+- Clean spacing and alignment
+- Consistent with the rest of the website
+
+WHATSAPP BEHAVIOR:
+When clicked, open WhatsApp with a prefilled message like:
+“Bonjour, je voulais acheter le produit X. Pouvez-vous m’aider ?”
+
+If possible:
+- On product pages, replace “X” with the actual product name dynamically
+- On other pages, use a fallback message:
+“Bonjour, je voudrais plus d’informations sur vos produits.”
+
+2. FLOATING WHATSAPP BUBBLE
+Add a floating WhatsApp bubble visible across the entire website.
+
+REQUIREMENTS:
+- Fixed position
+- Visible on all pages
+- Bottom right on desktop and mobile
+- Black and gold Maison YS style
+- Elegant, minimal, premium
+- Subtle shadow
+- Soft hover animation
+- Must stay discreet but visible
+- Must not overlap important buttons or footer content
+
+FUNCTION:
+- Clicking it opens WhatsApp with the same prefilled message behavior
+- Use the dynamic product name on product pages if possible
+- Use the generic fallback on other pages
+
+IMPORTANT:
+- Do not use bright WhatsApp green as the main color
+- The design must prioritize Maison YS branding: black / obsidian / gold
+- Use a proper WhatsApp link format and encoded message
+
+3. ENTRY LOADING SCREEN
+When a user opens the website from the link, show a premium intro loading screen before the homepage appears.
+
+LOADING SCREEN REQUIREMENTS:
+- Fullscreen black background
+- Display the Maison YS logo in the center
+- Display the brand name “Maison YS” under or near the logo
+- Elegant luxury presentation
+- Minimal, clean, cinematic feel
+- Gold logo / gold text on black background
+- Very smooth fade-in / fade-out animation
+- Maximum duration: 2 seconds
+- After that, transition automatically to the homepage
+
+STYLE:
+- No cheap spinner
+- No generic loader
+- No bright colors
+- Keep it very premium and brand-focused
+- It should feel like an elegant brand opening, not a technical loading state
+
+ANIMATION DIRECTION:
+- Soft fade in
+- Slight glow or subtle reveal on the logo
+- Smooth fade out
+- Calm and luxurious motion only
+
+TECHNICAL:
+- Show the intro loading screen only on first page load / website entry
+- Do not replay it excessively during normal navigation between pages
+- Keep performance good on mobile and desktop
+- Do not block the site longer than 2 seconds
+- Make the transition feel smooth and professional
+
+FINAL GOAL:
+Add:
+1. A premium WhatsApp button in the contact section
+2. A floating WhatsApp bubble across the website
+3. A premium Maison YS intro loading screen with black background, logo, and brand name for up to 2 seconds when users open the website
+
+The whole result must feel luxurious, elegant, polished, and fully aligned with Maison YS branding.

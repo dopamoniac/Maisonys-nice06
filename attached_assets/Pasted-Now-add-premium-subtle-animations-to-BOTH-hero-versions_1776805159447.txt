@@ -1,0 +1,75 @@
+Now add premium, subtle animations to BOTH hero versions (desktop and mobile).
+
+IMPORTANT:
+- Keep the design elegant, luxury, and professional
+- Do NOT add flashy, aggressive, or cheap animations
+- The animation style must feel high-end, refined, cinematic, and premium
+
+GOAL:
+Make both hero images feel alive with subtle luxury motion, depth, shadow, and atmosphere.
+
+APPLY TO BOTH DESKTOP AND MOBILE:
+- desktop hero image
+- mobile hero image
+
+ANIMATION DIRECTION:
+1) Subtle floating/parallax effect
+- Add a very slight slow movement to the hero visual
+- The bottle/background should feel alive, not static
+- Motion must be minimal and smooth
+
+2) Soft luxury shadow / depth
+- Add elegant shadow depth around the bottle area
+- Make the bottle feel more premium and dimensional
+- Keep shadows soft, realistic, and refined
+
+3) Gentle glow
+- Add a very subtle amber/golden glow around the product light area
+- It should enhance the luxury mood, not look artificial
+
+4) Slight smoke/light movement effect
+- Only very subtle movement in background atmosphere
+- No heavy smoke
+- Just a soft cinematic breathing effect in the light / haze
+
+5) Smooth text reveal
+- Animate the hero text with elegant fade + slight upward motion on load
+- Logo, label, title, subtitle, and button should appear in a staggered premium way
+- Keep timing smooth and sophisticated
+
+6) Premium button hover
+- Add a refined hover effect on the CTA button
+- Slight glow / border enhancement / tiny lift
+- Keep it minimal and luxury
+
+7) Image hover/parallax on desktop only
+- On desktop, add a very soft mouse-based parallax effect
+- Keep it subtle and slow
+- Do not distort the layout
+
+IMPORTANT STYLE RULES:
+- No bouncing
+- No zoom-in/out that feels too obvious
+- No flashy blur effects
+- No exaggerated motion
+- No cheap animation presets
+- Everything must feel premium, smooth, expensive, and modern
+
+PERFORMANCE:
+- Animations must stay lightweight and smooth
+- Keep them production-ready
+- Respect mobile performance
+- Mobile animation should be simpler and even more subtle than desktop
+
+OVERALL FEEL:
+Think luxury perfume campaign website:
+- cinematic
+- elegant
+- premium
+- refined depth
+- soft shadows
+- subtle motion
+- expensive feel
+
+Use clean React + Tailwind + Framer Motion if needed.
+Return the final updated hero code with these professional animations.

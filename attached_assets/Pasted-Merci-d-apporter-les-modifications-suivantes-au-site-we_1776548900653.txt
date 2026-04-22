@@ -1,0 +1,50 @@
+Merci d’apporter les modifications suivantes au site web de **Maison YS** :
+
+### 1. Supprimer le logo au centre de la page d’accueil
+
+* Retirer complètement le logo carré placé au milieu du hero banner.
+* Il surcharge visuellement la page et cache une partie du design principal.
+* Garder uniquement l’identité visuelle déjà intégrée dans le fond et dans le header.
+
+### 2. Remplacer toutes les images de la collection
+
+* Dans la section **Collection**, remplacer toutes les images actuelles par la/les nouvelle(s) image(s) produit que j’ai fournies.
+* Utiliser uniquement les nouveaux visuels envoyés, avec une présentation élégante, luxe et cohérente avec l’univers de la marque.
+* Respecter un rendu premium, minimaliste et raffiné.
+
+### 3. Mettre tout le site en français
+
+Merci de remplacer tout le contenu en anglais par du **français correct**.
+
+#### Exemples de traductions à appliquer :
+
+* **COLLECTION** → **COLLECTION**
+* **THE MAISON** → **LA MAISON**
+* **GIFTING** → **CADEAUX** ou **IDÉES CADEAUX**
+* **CONTACT** → **CONTACT**
+* **DISCOVER THE COLLECTION** → **DÉCOUVRIR LA COLLECTION**
+* **EXPLORE MAISON YS** → **EXPLORER MAISON YS**
+* **Refined by intention.** → **Raffiné avec intention.**
+
+Vérifier que **tous les boutons, menus, sections et textes du site** soient en français, sans laisser d’anglais.
+
+### 4. Mettre les bonnes informations de la marque
+
+Merci d’insérer les coordonnées correctes de **Maison YS** :
+
+* **Téléphone :** +33 6 26 07 08 50
+* **Email :** [maisonys06@gmail.com](mailto:maisonys06@gmail.com)
+* **Adresse :** 2 bd Raimbaldi, Nice, France, 06000
+* **Facebook :** https://www.facebook.com/profile.php?id=61572084282268
+
+### 5. Direction artistique à respecter
+
+* Conserver l’univers **luxe, noir et doré**, élégant et haut de gamme.
+* Garder une esthétique raffinée, sobre, premium et cohérente avec l’image de marque Maison YS.
+* Veiller à la lisibilité des textes, à l’équilibre visuel et à une expérience plus fluide.
+
+### 6. Important
+
+* Ne pas modifier l’identité de la marque.
+* Moderniser la présentation sans perdre le style prestigieux actuel.
+* Le rendu final doit être plus propre, plus harmonieux et 100 % en français.

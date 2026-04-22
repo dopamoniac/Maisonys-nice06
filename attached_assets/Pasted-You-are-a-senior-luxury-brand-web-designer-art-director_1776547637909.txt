@@ -1,0 +1,449 @@
+You are a senior luxury brand web designer, art director, creative strategist, and full-stack developer.
+
+Your mission is to create a HIGH-END, IMMERSIVE, CONVERSION-READY website for the fragrance brand “Maison YS”.
+
+This is not a generic perfume website.
+This brand must feel:
+- luxurious
+- rare
+- elegant
+- editorial
+- premium
+- sensual
+- refined
+- timeless
+- minimal but powerful
+- rich in atmosphere
+- visually expensive
+- inspired by haute parfumerie, black marble, gold detailing, shadow play, warm beige tones, prestige gifting, and a subtle oriental architectural influence from the logo geometry
+
+IMPORTANT:
+I will provide 5 reference images.
+These images are the SOURCE OF TRUTH for the visual identity.
+You must extract the exact visual language from them and build the website around that identity.
+Do not invent a different brand direction.
+Do not use random modern startup styles.
+Do not make it look like a Shopify template.
+Do not make it playful, colorful, techy, or generic.
+Do not use cheap luxury clichés.
+The final result must feel like a premium maison de parfum.
+
+==================================================
+BRAND POSITIONING
+==================================================
+
+Brand name: Maison YS
+
+Core universe:
+Maison YS is a luxury fragrance house with a visual identity built on:
+- black and deep charcoal
+- warm gold accents
+- soft beige / cream / stone backgrounds
+- marble textures
+- soft cinematic lighting
+- premium bottle presentation
+- prestige gift-box experience
+- elegant serif typography
+- a noble and artistic atmosphere
+
+The logo language combines:
+- a central gold emblem
+- ornamental geometry
+- refined symmetry
+- a premium heritage feel
+- a subtle oriental / architectural influence
+- a clean, prestigious monogram presence
+
+The website must feel like a fusion of:
+- luxury perfume maison
+- editorial fashion campaign
+- premium gifting experience
+- modern prestige brand
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+Use the uploaded images to derive the exact aesthetic direction:
+1. The logo image defines the exact identity language, proportions, mood, framing style, ornament logic, and gold-on-black prestige.
+2. The vanilla powder product image defines the soft beige editorial direction, minimal composition, typography spacing, product spotlighting, and premium still-life treatment.
+3. The Baccarat gift-set image defines the festive prestige experience, black marble pedestal, dramatic golden particles, gift-box luxury, and premium showcase mood.
+4. The Maison YS logo variants define the exact ornamental symbolism and premium emblem treatment.
+5. The collection grid image defines the catalog / selection direction and how multiple perfumes should be presented in a clean luxury layout.
+
+Use these images to infer:
+- palette
+- spacing
+- tone
+- lighting
+- material feel
+- typography style
+- composition rhythm
+- luxury level
+- motion style
+- product hierarchy
+
+==================================================
+NON-NEGOTIABLE CREATIVE RULES
+==================================================
+
+1. The logo must be respected exactly.
+Do not redesign it.
+Do not simplify it.
+Do not replace it.
+Do not alter its geometry.
+Use it as the official brand identity.
+
+2. The uploaded product visuals must remain visually premium and central to the experience.
+Build the site around them.
+
+3. The website must feel custom-designed, not template-based.
+
+4. Every section must feel cinematic, polished, and intentional.
+
+5. The interface must feel expensive even before any text is read.
+
+6. Typography must be elegant, premium, and well spaced.
+Use a refined luxury serif for headlines and a clean supporting typeface for body text.
+Examples of direction:
+- serif style similar in spirit to Didot / Cormorant / Canela / high-fashion editorial serif
+- sans-serif support that is discreet and sophisticated
+Do not use childish or casual fonts.
+
+7. The motion must be subtle and premium:
+- soft fade reveals
+- slow parallax
+- elegant hover states
+- gentle shimmer on gold accents
+- cinematic section entrances
+- smooth page transitions
+No aggressive animation.
+No flashy effects.
+No cheap particle overuse.
+
+==================================================
+COLOR SYSTEM
+==================================================
+
+Build the palette from the references.
+Primary directions:
+- deep black
+- charcoal black
+- warm gold
+- antique gold
+- champagne gold highlights
+- stone beige
+- warm ivory
+- soft cream
+- muted taupe
+- marble black with gold veining
+
+The site should alternate between:
+- dark luxury sections
+- soft editorial beige sections
+This contrast is essential.
+
+Gold must be used with restraint.
+It should feel precious, not loud.
+
+==================================================
+WEBSITE GOALS
+==================================================
+
+The website should accomplish these goals:
+
+1. Establish Maison YS as a true luxury fragrance brand
+2. Make visitors emotionally feel the prestige of the brand
+3. Showcase perfumes as desirable objects
+4. Present the brand universe with clarity and sophistication
+5. Encourage discovery of the collection
+6. Highlight gifting and special selections
+7. Create trust and premium perception
+8. Be mobile-first and conversion-ready
+9. Be easy to expand into full ecommerce later
+10. Feel elite and memorable
+
+==================================================
+SITE STRUCTURE
+==================================================
+
+Create a complete premium website with the following pages/sections:
+
+A. HOME PAGE
+The home page should be a masterpiece.
+
+Include:
+
+1. Hero Section
+- full-screen luxury hero
+- cinematic composition
+- strong logo presence
+- premium headline
+- elegant supporting copy
+- CTA buttons such as:
+  - Discover the Collection
+  - Explore Maison YS
+  - Shop the Selection
+- visual mood inspired directly by the uploaded references
+- maybe split visual logic between black-gold prestige and beige editorial perfume imagery
+
+2. Signature Brand Statement
+A short, elevated brand statement introducing Maison YS as a refined fragrance universe.
+
+3. Featured Collection
+- premium cards or editorial product blocks
+- highlight fragrances such as Vanilla Powder, Baccarat, and the broader selection shown in the uploaded visual
+- each item should feel collectible
+
+4. Prestige Selection / Best Sellers
+- visually elegant showcase
+- not cluttered
+- highlight hero perfumes
+
+5. Gift Experience Section
+Inspired by the Baccarat gift-box image
+- premium gifting angle
+- luxurious presentation
+- dark cinematic background
+- gold glow accents used tastefully
+
+6. Maison YS Story / Identity Section
+- refined storytelling
+- origin, taste, craftsmanship, and emotion
+- must sound like a luxury maison, not a mass-market seller
+
+7. Visual Editorial Section
+- immersive section using the beige/stone aesthetic from the vanilla powder image
+- can include quote, sensory description, or fragrance philosophy
+
+8. Final CTA Section
+- invite users to explore the collection or contact Maison YS
+- elegant closing statement
+
+B. COLLECTION PAGE
+A premium catalog page.
+Not a basic product grid.
+Must include:
+- refined filtering or category logic
+- elegant product cards
+- hover reveals
+- generous spacing
+- strong visual hierarchy
+- luxury editorial composition
+- mobile-optimized layout
+
+C. PRODUCT DETAIL PAGE
+Design a premium product detail experience with:
+- large hero product image
+- elegant fragrance name
+- extrait de parfum positioning
+- bottle volume
+- fragrance story
+- olfactory mood
+- notes pyramid if relevant
+- luxurious CTA
+- “You may also love” section
+- premium packaging / gifting mention
+
+D. ABOUT / THE MAISON PAGE
+Tell the Maison YS story with prestige.
+Should feel timeless and elevated.
+Discuss:
+- brand philosophy
+- elegance
+- fragrance as identity
+- curation
+- sensory refinement
+Use emotional, premium copywriting.
+
+E. GIFTING / SELECTION PAGE
+Inspired by the premium gift-box image.
+Must feel festive, exclusive, luxurious.
+Highlight:
+- premium selections
+- elegant packaging
+- prestige presentation
+- gifting moments
+
+F. CONTACT / SOCIAL / DISCOVERY PAGE
+Elegant contact experience.
+Include:
+- brand inquiry form
+- social connection area
+- optional WhatsApp / Instagram / Facebook placeholders
+- luxury-style footer
+
+==================================================
+COPYWRITING DIRECTION
+==================================================
+
+Write copy in a luxurious, refined, premium tone.
+The tone should feel:
+- elegant
+- sensual
+- controlled
+- poetic but clear
+- premium and memorable
+
+Avoid:
+- generic marketing phrases
+- cliché startup copy
+- overly salesy language
+- cheap “best perfume ever” style writing
+- exaggerated hype
+
+The copy should sound like a luxury fragrance maison.
+
+Examples of copy direction:
+- timeless elegance
+- crafted for presence
+- curated expressions of scent
+- the art of distinguished fragrance
+- rare compositions, elevated rituals
+- the essence of prestige
+- designed to leave an unforgettable impression
+
+==================================================
+UX / UI REQUIREMENTS
+==================================================
+
+- fully responsive
+- luxury-level spacing
+- fast loading
+- accessible contrast while preserving elegance
+- sticky but minimal navigation
+- smooth scroll
+- refined hover states
+- polished footer
+- premium loading state
+- no clutter
+- no visual noise
+- no overcrowded text blocks
+
+Navigation should feel clean and elite.
+Possible nav:
+- Home
+- Collection
+- The Maison
+- Gifting
+- Contact
+
+Add a subtle announcement bar if useful:
+- Luxury Extrait de Parfum Selection
+- Curated by Maison YS
+- Prestige Fragrance Collection
+
+==================================================
+TECHNICAL EXECUTION
+==================================================
+
+Build this as a polished, production-quality website.
+
+Preferred stack:
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion for subtle animations
+
+Requirements:
+- clean reusable components
+- excellent spacing system
+- scalable architecture
+- image optimization
+- dark/light section alternation
+- premium gradient and shadow control
+- elegant typography scale
+- smooth transitions
+- no bloated code
+- no placeholder-feeling design
+
+Create components such as:
+- LuxuryNavbar
+- HeroSection
+- SignatureStatement
+- FeaturedCollection
+- GiftExperience
+- BrandStory
+- EditorialShowcase
+- ProductGrid
+- ProductDetailHero
+- FooterMaisonYS
+
+==================================================
+DESIGN DETAILS TO EMPHASIZE
+==================================================
+
+- black marble pedestal references
+- gold line details
+- soft beige editorial backgrounds
+- cinematic shadow gradients
+- refined borders
+- subtle glow behind logo or premium products
+- ornamental geometry inspired by the logo
+- tasteful framing devices
+- premium section separators
+- elegant serif headlines with large breathing space
+- curated negative space
+- rich but restrained atmosphere
+
+The site should feel like it belongs to a real luxury perfume empire.
+
+==================================================
+DO NOT DO THIS
+==================================================
+
+- do not use bright colors
+- do not use generic ecommerce templates
+- do not use childish icons
+- do not overuse rounded modern startup cards
+- do not make it look cheap
+- do not make it too busy
+- do not flatten the brand identity
+- do not replace luxury with minimal emptiness
+- do not create a trendy tech brand aesthetic
+- do not use random stock imagery if uploaded assets are available
+- do not reinterpret the logo incorrectly
+- do not create an ultra-feminine or ultra-masculine bias; keep it noble, universal, and luxurious
+
+==================================================
+DESIRED FINAL IMPRESSION
+==================================================
+
+When someone lands on the website, they should instantly think:
+
+“This is a serious luxury fragrance house.”
+“This brand feels premium, rare, and established.”
+“The identity is coherent and expensive.”
+“The products look desirable.”
+“The experience feels cinematic and unforgettable.”
+
+==================================================
+DELIVERABLES
+==================================================
+
+Build:
+1. a complete luxury homepage
+2. collection page
+3. product detail page template
+4. about page
+5. gifting page
+6. contact/footer/social area
+7. cohesive design system
+8. reusable components
+9. mobile responsive implementation
+10. polished premium animations
+
+Also:
+- use the uploaded images as real brand assets
+- keep the visual identity coherent across all sections
+- ensure every detail serves the Maison YS luxury universe
+
+Start by analyzing the uploaded assets and extracting:
+- exact palette
+- design language
+- typography mood
+- composition rules
+- visual hierarchy
+Then build the website accordingly.
+
+The final result must feel like the beginning of a luxury empire.

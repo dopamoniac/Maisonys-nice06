@@ -1,0 +1,72 @@
+I want you to completely replace the current hero/home page and recreate it to match the uploaded reference image EXACTLY in structure, mood, spacing, and luxury feel.
+
+IMPORTANT:
+- Use the uploaded first image as the main visual reference.
+- The final result must look as close as possible to that reference.
+- Do NOT keep the current split layout if it differs from the reference.
+- Rebuild the whole hero section so it visually matches the reference image almost 1:1.
+
+GOAL:
+Transform the current page into a premium full-width luxury perfume landing hero inspired by the uploaded reference.
+
+LAYOUT TO MATCH:
+- Full-screen hero section
+- Dark cinematic luxury background
+- Warm amber / gold smoky lighting
+- Product bottle positioned on the RIGHT side
+- Large brand/logo area on the LEFT side
+- Big serif headline:
+  “RARE PAR NATURE.”
+- Elegant italic subtitle under it:
+  “Raffiné avec intention.”
+- CTA button under the text:
+  “DÉCOUVRIR LA COLLECTION”
+- Top navigation aligned at the upper right:
+  COLLECTION / LA MAISON / CADEAUX / CONTACT
+- Overall composition, spacing, text hierarchy, and balance should follow the reference image as closely as possible
+
+VISUAL STYLE:
+- Ultra-luxury perfume campaign aesthetic
+- Deep black background with warm amber glow
+- Soft smoke / mist atmosphere
+- Gold and ivory typography
+- Premium editorial look
+- Strong contrast, clean composition, elegant negative space
+- Bottle must feel glossy, premium, and dramatic
+- Subtle reflective ground under the bottle
+- Soft cinematic lighting, not flat lighting
+
+TYPOGRAPHY:
+- Use an elegant high-fashion serif for the main title
+- Subtitle should be refined, italic, golden, and delicate
+- Navigation should be uppercase, minimalist, widely spaced
+- Button should be outlined, elegant, premium, with subtle hover animation
+
+HEADER:
+- Keep the logo on the left
+- Keep nav on the top right
+- Transparent header over the hero
+- Minimal and luxurious
+
+TECHNICAL REQUIREMENTS:
+- Make the hero fully responsive
+- Desktop version should match the uploaded reference image as closely as possible
+- Preserve a premium responsive adaptation for tablet/mobile
+- Use clean React + Tailwind code
+- Keep the design polished and production-ready
+- Use proper spacing, alignment, and object positioning
+- The hero image must cover perfectly without awkward cropping
+- Make sure the bottle is visually dominant on the right without being cut badly
+
+BACKGROUND / IMAGE TREATMENT:
+- If needed, apply a dark overlay and warm amber gradient to recreate the same mood
+- Add subtle smoke/fog effects if necessary
+- Add a luxury reflective floor effect beneath the bottle
+- The atmosphere must feel rich, sensual, warm, and exclusive
+
+MOST IMPORTANT:
+I want the new page to look as close as possible to the uploaded first reference image.
+Do not just “take inspiration.”
+Rebuild the hero to match it very closely: same composition, same visual hierarchy, same premium direction, same mood.
+
+Please directly modify the relevant page/component and give me the final ready-to-use code.

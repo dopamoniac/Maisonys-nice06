@@ -1,0 +1,72 @@
+The current hero section looks much better on desktop than on mobile. The desktop version feels balanced and cinematic, but the mobile version feels like a poorly adapted crop of the desktop layout instead of a true mobile-first design.
+
+I need you to fix the hero section responsiveness properly.
+
+Main problem:
+- On desktop, the composition works because there is enough horizontal space
+- On mobile, the hero loses its balance
+- The layout feels compressed, cropped, and less premium
+- The product image is missing or not integrated properly in the mobile experience
+- Mobile currently looks like a reduced desktop version instead of a custom luxury mobile layout
+
+What I want:
+Create two intentional hero compositions:
+1. one optimized for desktop
+2. one optimized for mobile
+
+Do not simply scale down the desktop hero for mobile.
+
+Desktop hero requirements:
+- Keep the elegant split composition with text on one side and product visual on the other
+- Maintain cinematic balance and luxury spacing
+- Preserve the dark premium atmosphere
+- Make sure the product bottle remains prominent, sharp, and beautifully framed
+- Keep the typography large, refined, and well-spaced
+- Ensure the CTA placement feels intentional and aligned
+
+Mobile hero requirements:
+- Redesign the hero specifically for small screens
+- Keep the same Maison YS luxury identity, but adapt the layout properly
+- Do not crop the composition awkwardly
+- Do not let the design feel empty, broken, or unfinished
+- The mobile hero must feel premium, structured, and fully designed
+
+Recommended mobile structure:
+- Top: refined navbar with transparent logo and clean spacing
+- Then: small brand label / accent line
+- Then: main headline
+- Then: supporting text
+- Then: CTA button
+- Then: product visual placed in a clean, elegant way below or partially integrated without breaking the layout
+
+Important mobile guidance:
+- The product must still appear on mobile in a premium way
+- It should not disappear completely
+- It should not feel randomly cut or squeezed
+- Either place the bottle below the text block or integrate it as a controlled focal point in the lower part of the hero
+- Make sure the bottle remains clearly visible and luxurious
+
+Responsive design rules:
+- Use different layout logic for desktop and mobile
+- Adjust spacing, sizing, and alignment independently for each breakpoint
+- Optimize typography scale for mobile readability and elegance
+- Prevent text from becoming too large or too cramped
+- Keep strong negative space even on small screens
+- Ensure buttons are correctly sized for touch without looking bulky
+
+Technical expectations:
+- Use proper responsive breakpoints, not only automatic scaling
+- Adjust hero height for mobile so content fits naturally
+- Prevent overflow, bad cropping, or broken composition
+- Make sure the focal points remain intentional on all screen sizes
+- Test the layout visually for desktop and mobile separately
+
+Luxury direction:
+The website must feel like a true luxury fragrance brand on both devices.
+Desktop should feel cinematic and editorial.
+Mobile should feel refined, premium, and purpose-built — not like a compromised version.
+
+Important:
+Do not redesign the whole brand direction.
+Keep the same Maison YS visual identity, dark palette, premium tone, and hero atmosphere.
+Only fix the responsive composition so both desktop and mobile feel equally polished and high-end.

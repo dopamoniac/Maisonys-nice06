@@ -1,0 +1,170 @@
+Update the Collection section of the Maison YS website.
+
+IMPORTANT:
+Do not remove any existing product.
+Keep the current layout and existing products.
+Follow the exact order of actions below.
+
+ORDER OF ACTIONS:
+
+1. FIRST: ADD THE NEW 4TH PRODUCT
+2. SECOND: CORRECT THE NAME OF THE FIRST PRODUCT
+3. THIRD: UPDATE THE PRODUCT TEXTS USING THE EXACT PROVIDED OFFICIAL TEXT
+
+MAIN GOAL:
+Preserve the premium Collection Dorée layout, add the new Coco Vanille product, correct Vanilla Powder, and then update all official product texts exactly as provided.
+
+-----------------------------------
+STEP 1 — ADD THE NEW 4TH PRODUCT
+-----------------------------------
+
+Add a new 4th product to the Collection Dorée.
+
+NEW PRODUCT DETAILS:
+
+PRODUCT NAME:
+Coco Vanille
+
+CATEGORY:
+Oriental Gourmand
+
+SHORT DESCRIPTION:
+Gourmand / Cocooning
+
+IMAGE:
+Use the newly uploaded image for Coco Vanille.
+This image must be used only for the new 4th product.
+
+RULES:
+- Do not remove any existing card
+- Do not replace another product
+- Append this as a new fourth product card
+- Keep the same premium visual style as the other products
+- Keep alignment, spacing, and proportions consistent
+
+-----------------------------------
+STEP 2 — CORRECT THE FIRST PRODUCT NAME
+-----------------------------------
+
+After adding the new 4th product, correct the first product name.
+
+Change the first product display name from:
+- Coco Vanille
+
+To:
+- Vanilla Powder
+
+IMPORTANT:
+- Keep its current image exactly as it is
+- Do not change its image
+- Do not change its product card style
+- Do not change its visual identity unless needed only for consistency
+
+-----------------------------------
+STEP 3 — UPDATE THE PRODUCT TEXTS
+-----------------------------------
+
+After the new product is added and the first product is renamed, update the product texts.
+
+IMPORTANT:
+I will provide the official text for the products.
+These texts are final brand-approved content.
+You must preserve them exactly as provided for each corresponding product.
+
+STRICT TEXT PRESERVATION RULES:
+- Do not rewrite
+- Do not summarize
+- Do not shorten
+- Do not paraphrase
+- Do not translate
+- Do not improve the wording
+- Do not change punctuation
+- Do not change accents
+- Do not change capitalization
+- Do not change sentence structure
+- Do not replace any sentence with AI-generated copy
+- Do not alter headings
+- Do not alter bullet content
+- Do not alter conclusion lines
+
+You may only format the display visually if needed, but the text content itself must remain exactly identical.
+
+Use the provided official text as the single source of truth for these 10 products:
+- BACCARAT
+- AICHA
+- CHRONIC R
+- COCO VANILLE
+- KIRKE
+- MOULA
+- RÊVE
+- ROSE VANILLE
+- SUCRE
+- VANILLA POWDER
+
+For each product:
+- Match the text block with the product of the same name
+- Preserve the exact wording
+- Preserve accents and line meaning
+- Preserve “Extrait de Parfum – 50 ML” exactly
+- Preserve bullet structure
+- Preserve “Conclusion claire” text exactly
+
+IMPLEMENTATION RULE:
+If the website uses a product data array, JSON file, or TypeScript object, update the product content there.
+Do not leave placeholder copy.
+Do not keep old product text.
+Do not auto-generate replacement descriptions.
+
+-----------------------------------
+KEEP OTHER PRODUCTS UNCHANGED VISUALLY
+-----------------------------------
+
+Keep the other existing products visually unchanged:
+- Vanilla Powder
+- Sucre
+- Rose Vanille
+
+Only:
+- add Coco Vanille as the new 4th card
+- correct the first product name
+- update the official text content
+
+-----------------------------------
+LAYOUT RULES
+-----------------------------------
+
+- Keep the same premium Collection Dorée style
+- Keep all products visually aligned
+- Use the same card design, spacing, typography, and proportions
+- Make sure all 4 visible products look balanced in the grid
+- On desktop, the 4 products should display in a clean luxury grid
+- On mobile, they should stack elegantly with proper spacing
+
+-----------------------------------
+IMAGE RULES
+-----------------------------------
+
+- Do not stretch images
+- Do not crop badly
+- Keep bottle proportions correct
+- Keep image quality sharp and premium
+- Make sure the new Coco Vanille product matches the visual quality of the other items
+
+-----------------------------------
+FINAL VISIBLE COLLECTION ORDER
+-----------------------------------
+
+The final Collection Dorée should display in this order:
+1. Vanilla Powder
+2. Sucre
+3. Rose Vanille
+4. Coco Vanille
+
+-----------------------------------
+FINAL GOAL
+-----------------------------------
+
+Preserve the current premium layout.
+First add the new Coco Vanille product as product number 4.
+Then correct the first product name to Vanilla Powder.
+Then update the product texts using the exact official text provided, without changing a single word.

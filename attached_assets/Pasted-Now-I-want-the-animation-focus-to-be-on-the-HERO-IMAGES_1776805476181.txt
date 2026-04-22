@@ -1,0 +1,85 @@
+Now I want the animation focus to be on the HERO IMAGES / VISUAL ATMOSPHERE, not on the text.
+
+IMPORTANT:
+- Keep text animation minimal or unchanged
+- Focus on making the desktop and mobile hero images feel more alive, luxurious, and cinematic
+- The effect must feel classy, premium, subtle, and expensive
+- No cheap or exaggerated animation
+
+GOAL:
+Add elegant luxury motion and atmosphere to both hero visuals so they feel like a high-end perfume campaign.
+
+APPLY TO BOTH:
+- desktop hero image/background
+- mobile hero image/background
+
+WANTED IMAGE EFFECTS:
+
+1) Subtle cinematic smoke movement
+- Add a very soft moving haze/smoke effect in the background
+- The smoke should be light, refined, and atmospheric
+- No dense smoke
+- No fast movement
+- It should feel like a slow luxury cinematic breathing effect
+
+2) Soft light shimmer / glow movement
+- Add a subtle amber light movement behind/around the bottle area
+- Very gentle pulsing glow
+- Keep it elegant and realistic
+- It should enhance the premium mood without looking fake
+
+3) Bottle depth enhancement
+- Make the bottle feel more premium with subtle shadow depth
+- Add soft vignette / depth around the product zone
+- The bottle should stand out in a classy way
+
+4) Very slight parallax / floating feel
+- Add a tiny slow movement to the background image or bottle zone
+- The image should feel alive, not static
+- Motion must be extremely subtle and smooth
+
+5) Luxury atmosphere layering
+- Use layered overlays if needed:
+  - soft smoke layer
+  - amber glow layer
+  - subtle dark vignette
+- Blend them carefully so the final result feels editorial and premium
+
+STYLE RULES:
+- No obvious looping effect
+- No strong zoom in/out
+- No flashy blur
+- No aggressive particles
+- No cheap “fog machine” look
+- No overdone effects
+- Everything must stay refined and elegant
+
+DESKTOP:
+- Can have a slightly richer atmospheric effect
+- Very subtle mouse parallax is okay if tasteful
+
+MOBILE:
+- Keep the same luxury atmosphere
+- Lighter and cleaner than desktop
+- Optimize for performance
+- Effects must remain subtle and smooth
+
+VISUAL REFERENCE FEEL:
+Think:
+- luxury perfume ad
+- dark amber cinematic atmosphere
+- expensive editorial motion
+- subtle smoke
+- refined shadows
+- premium glow
+- classy depth
+
+TECHNICAL:
+- Use clean React + Tailwind + Framer Motion or lightweight layered animations
+- Keep it production-ready and smooth
+- Avoid anything heavy or distracting
+
+MOST IMPORTANT:
+The hero images should feel more luxurious and alive through subtle smoke, glow, shadow, and atmospheric motion — not through flashy animation.
+
+Return the final updated hero code.

@@ -1,0 +1,56 @@
+Update the Maison YS website with this specific change only:
+
+Add a WhatsApp purchase button directly below the existing “Nous contacter” button on:
+- all 10 product pages
+- the Coffret page
+
+IMPORTANT:
+Do not change the WhatsApp button already added in the contact section.
+Do not change the intro loading screen.
+Do not modify any other existing WhatsApp feature.
+Only add this new button under the existing “Nous contacter” button on the product detail pages and the Coffret page.
+
+PLACEMENT:
+- On each product page, place the new WhatsApp button immediately below the existing “Nous contacter” button
+- Do the same on the Coffret page
+- Keep spacing elegant and balanced
+- The new button must align with the current layout and width of the existing button
+
+STYLE:
+- Match the Maison YS luxury aesthetic
+- Premium black and gold style
+- Elegant typography
+- Refined hover effect
+- Same visual quality and sizing logic as the existing “Nous contacter” button
+- The new button should feel fully integrated into the page design
+
+BUTTON PURPOSE:
+This button is for direct purchase via WhatsApp.
+
+BUTTON TEXT:
+Use a refined CTA such as:
+- “Commander sur WhatsApp”
+or
+- “Acheter sur WhatsApp”
+
+WHATSAPP BEHAVIOR:
+When clicked, open WhatsApp with a prefilled message using the correct current product name dynamically.
+
+Message format:
+“Bonjour, je voulais acheter le produit [PRODUCT NAME]. Pouvez-vous m’aider ?”
+
+Examples:
+- “Bonjour, je voulais acheter le produit Aicha. Pouvez-vous m’aider ?”
+- “Bonjour, je voulais acheter le produit Kirke. Pouvez-vous m’aider ?”
+- “Bonjour, je voulais acheter le produit Vanilla Powder. Pouvez-vous m’aider ?”
+- On the Coffret page: “Bonjour, je voulais acheter le Coffret. Pouvez-vous m’aider ?”
+
+TECHNICAL:
+- Use the current product name dynamically on all product pages
+- Use “Coffret” on the Coffret page
+- URL-encode the WhatsApp message properly
+- Keep mobile responsiveness clean
+- Do not break spacing, hierarchy, or page layout
+
+FINAL GOAL:
+Every product page and the Coffret page must have a premium WhatsApp purchase button directly under the existing “Nous contacter” button, opening WhatsApp with a prefilled message containing the correct product name.

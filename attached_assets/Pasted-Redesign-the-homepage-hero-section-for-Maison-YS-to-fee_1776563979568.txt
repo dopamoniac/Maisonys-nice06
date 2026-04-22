@@ -1,0 +1,91 @@
+Redesign the homepage hero section for Maison YS to feel ultra-premium, minimal, elegant, and high-end luxury fragrance brand level. The current hero feels visually overloaded and slightly vulgarized because too many strong elements compete at once. I want a refined, expensive, niche-perfume aesthetic.
+
+Main direction:
+Create a hero that feels like a luxury maison, not a promotional poster. Think of the visual discipline of high-end fragrance brands: less clutter, stronger hierarchy, more breathing space, more restraint, more sophistication.
+
+Problems to fix:
+- The central logo is too large and too dominant
+- There are too many focal points at once
+- The text, logo, subtitle, two buttons, and repeated Maison YS at the bottom make the section feel overloaded
+- The hero needs more visual calm, elegance, and intentional spacing
+- It should feel premium, rare, cinematic, and expensive
+
+What I want instead:
+1. Keep the black and gold Maison YS identity
+2. Keep the atmosphere dark, refined, mysterious, warm, luxurious
+3. Reduce visual noise dramatically
+4. Improve hierarchy so the eye knows exactly where to look first
+5. Make the hero feel exclusive, niche, and timeless
+6. Use spacing and restraint as luxury design tools
+
+Hero redesign instructions:
+- Keep the background dark and textured, but make it subtle and elegant
+- Use the Maison YS logo in a much more refined way:
+  - either as a very subtle oversized background watermark with low opacity
+  - or partially cropped as an artistic background element
+  - but never as a huge aggressive centered object
+- Remove the repeated large “MAISON YS” text at the bottom of the hero
+- Keep only one primary CTA button, not two
+- Reduce the amount of text in the hero
+- The layout should breathe and feel intentional, with clean spacing
+- Use refined typography with clear hierarchy
+
+Text hierarchy recommendation:
+Primary headline:
+RARE PAR NATURE.
+
+Optional secondary line:
+Raffiné avec intention.
+
+But the secondary line must be much smaller, softer, and more discreet than the main headline. If it still feels too busy, remove it entirely.
+
+CTA:
+Use only one elegant primary button:
+DÉCOUVRIR LA COLLECTION
+
+Design style:
+- luxury fragrance house
+- editorial minimalism
+- cinematic dark elegance
+- premium niche perfume website
+- quiet confidence
+- expensive visual language
+- no clutter
+- no aggressive marketing feel
+- no “template website” energy
+
+Spacing and composition:
+- Add much more negative space
+- Avoid stacking too many elements in the center
+- The hero should feel balanced and breathable on mobile first
+- Prioritize clean composition over filling space
+- Everything should feel aligned, polished, and calm
+
+Mobile experience is critical:
+- The hero must look stunning on mobile first
+- Avoid oversized elements that crowd the viewport
+- Make typography elegant and readable without feeling cramped
+- Ensure the CTA sits naturally in the composition
+- Preserve a luxurious sense of scale even on small screens
+
+Animation guidance:
+- Add very subtle fade or reveal animations only if elegant
+- No flashy motion
+- No cheap parallax effects
+- Motion should feel slow, soft, and premium
+
+Desired emotional outcome:
+When someone lands on the homepage, they should feel:
+“This is a serious luxury brand.”
+not
+“This is a visually overloaded perfume landing page.”
+
+Important:
+Do not change the Maison YS brand identity.
+Do not make it modern-tech or generic ecommerce.
+Do not make it flashy.
+Do not make it busy.
+Do not make it vulgar.
+Make it refined, minimal, premium, rare, and powerful through simplicity.
+
+Please redesign the hero accordingly and keep the result highly polished, brand-consistent, and luxury-level.
