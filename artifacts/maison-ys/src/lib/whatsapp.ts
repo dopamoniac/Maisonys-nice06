@@ -2,9 +2,9 @@ export const WHATSAPP_NUMBER = "33626070850";
 
 export function buildWhatsAppMessage(productName?: string | null): string {
   if (productName && productName.trim().length > 0) {
-    return `Bonjour, je voulais acheter le produit ${productName}. Pouvez-vous m'aider ?`;
+    return `Bonjour, je suis intéressé(e) par ${productName} de Maison YS. Pourriez-vous m'indiquer comment passer commande ?`;
   }
-  return "Bonjour, je voudrais plus d'informations sur vos produits.";
+  return "Bonjour, je souhaite découvrir la collection Maison YS. Pourriez-vous m'en dire davantage ?";
 }
 
 export function buildWhatsAppUrl(productName?: string | null): string {

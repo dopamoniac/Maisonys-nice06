@@ -246,9 +246,10 @@ export default function Product() {
                       <div className="absolute inset-0 bg-gold/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700 z-10" />
                       <img
                         src={productImages[f.imageKey]}
-                        alt={f.name}
+                        alt={`${f.name} — Extrait de Parfum ${f.family} — Maison YS`}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
                         style={{ objectPosition: "center 15%" }}
+                        loading="lazy"
                       />
                     </div>
                     <p className="text-xs uppercase tracking-widest text-gold/70 mb-1">{f.mood}</p>

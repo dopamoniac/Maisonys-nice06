@@ -20,7 +20,12 @@ export default function Gifting() {
       <section className="relative h-[80vh] flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-black/55 z-10" />
-          <img src={baccaratGiftImg} alt="Coffrets Maison YS" className="w-full h-full object-cover" />
+          <img
+            src={baccaratGiftImg}
+            alt="Coffret cadeau Maison YS — extrait de parfum de luxe, Nice Côte d'Azur"
+            className="w-full h-full object-cover"
+            loading="eager"
+          />
           <div className="absolute inset-0 bg-gradient-to-r from-obsidian via-obsidian/50 to-transparent z-10" />
         </div>
 
@@ -50,7 +55,7 @@ export default function Gifting() {
             transition={{ duration: 1, delay: 0.5 }}
             className="text-stone/50 tracking-widest uppercase text-xs"
           >
-            Extrait de Parfum — Le coffret le plus rare qui soit.
+            Extrait de Parfum · L'art d'offrir la distinction.
           </motion.p>
         </div>
       </section>
@@ -84,7 +89,12 @@ export default function Gifting() {
             transition={{ duration: 1 }}
             className="aspect-square bg-stone/5 p-6"
           >
-            <img src={baccaratSetImg} alt="Coffret Baccarat Maison YS" className="w-full h-full object-cover" />
+            <img
+            src={baccaratSetImg}
+            alt="Coffret Baccarat Maison YS — set de parfums de luxe Nice"
+            className="w-full h-full object-cover"
+            loading="lazy"
+          />
           </motion.div>
         </div>
       </section>

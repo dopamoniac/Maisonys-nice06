@@ -36,6 +36,7 @@ export default function IntroLoader() {
         document.body.style.overflow = prev;
       };
     }
+    return undefined;
   }, [visible]);
 
   return (

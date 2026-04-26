@@ -157,4 +157,36 @@
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif font-medium tracking-wide;
   }
+
+  /* Smooth scroll */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Focus visible — accessibilité clavier */
+  :focus-visible {
+    outline: 2px solid #C9A84C;
+    outline-offset: 3px;
+  }
+
+  /* Améliore le rendu des images */
+  img {
+    @apply max-w-full;
+    image-rendering: -webkit-optimize-contrast;
+  }
+}
+
+@layer utilities {
+  /* Scale 1.03 — manquant dans Tailwind par défaut */
+  .scale-103 {
+    --tw-scale-x: 1.03;
+    --tw-scale-y: 1.03;
+    transform: var(--tw-transform);
+  }
+
+  /* Texte de sélection luxe */
+  .selection-gold::selection {
+    background-color: #C9A84C;
+    color: #0a0906;
+  }
 }
